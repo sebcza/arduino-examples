@@ -8,3 +8,4 @@ void loop() {
   digitalWrite(8, LOW); 
   delay(1000); 
 }
+//Praca domowa: Napisz program który wysyła wiadomośc SOS
